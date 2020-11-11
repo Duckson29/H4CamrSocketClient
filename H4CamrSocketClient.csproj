@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClientToServerHandlerLib\ClientToServerHandlerLib.csproj" />
+    <ProjectReference Include="..\EncryptionSocketClientH4\EncryptionSocketClientH4.csproj" />
+  </ItemGroup>
+
+</Project>
