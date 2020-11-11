@@ -1,0 +1,9 @@
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\bin\Debug\netstandard2.0\ClientToServerHandlerLib.deps.json
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\bin\Debug\netstandard2.0\ClientToServerHandlerLib.dll
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\bin\Debug\netstandard2.0\ClientToServerHandlerLib.pdb
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\obj\Debug\netstandard2.0\ClientToServerHandlerLib.csprojAssemblyReference.cache
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\obj\Debug\netstandard2.0\ClientToServerHandlerLib.AssemblyInfoInputs.cache
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\obj\Debug\netstandard2.0\ClientToServerHandlerLib.AssemblyInfo.cs
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\obj\Debug\netstandard2.0\ClientToServerHandlerLib.csproj.CoreCompileInputs.cache
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\obj\Debug\netstandard2.0\ClientToServerHandlerLib.dll
+C:\Users\andi0137\source\repos\ClientToServerHandlerLib\obj\Debug\netstandard2.0\ClientToServerHandlerLib.pdb
