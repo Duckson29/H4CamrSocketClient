@@ -1,0 +1,9 @@
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\bin\Debug\netstandard2.0\EncryptionSocketClientH4.deps.json
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\bin\Debug\netstandard2.0\EncryptionSocketClientH4.dll
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\bin\Debug\netstandard2.0\EncryptionSocketClientH4.pdb
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\obj\Debug\netstandard2.0\EncryptionSocketClientH4.csprojAssemblyReference.cache
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\obj\Debug\netstandard2.0\EncryptionSocketClientH4.AssemblyInfoInputs.cache
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\obj\Debug\netstandard2.0\EncryptionSocketClientH4.AssemblyInfo.cs
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\obj\Debug\netstandard2.0\EncryptionSocketClientH4.csproj.CoreCompileInputs.cache
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\obj\Debug\netstandard2.0\EncryptionSocketClientH4.dll
+C:\Users\andi0137\source\repos\EncryptionSocketClientH4\obj\Debug\netstandard2.0\EncryptionSocketClientH4.pdb

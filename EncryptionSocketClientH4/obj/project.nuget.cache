@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QopVd7ugWUyXNab1sWDLqRjkSZQK57PFXzdmYN6ChY9sJiQk/xxumUEGy7NZrgLAHd0SV5QT+7ZrJJmM5SRkrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andi0137\\source\\repos\\EncryptionSocketClientH4\\EncryptionSocketClientH4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andi0137\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andi0137\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
